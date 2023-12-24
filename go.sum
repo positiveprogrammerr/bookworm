@@ -1,0 +1,4 @@
+github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=
+github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmWSiMQ=
+github.com/positiveprogrammerr/books v0.0.0-20231224165229-bec09cb0a36f h1:jyl2+UCqN4WBiQs5TRO0tkS0RuxMRXMWEpd6SmHL65Q=
+github.com/positiveprogrammerr/books v0.0.0-20231224165229-bec09cb0a36f/go.mod h1:+y2ytxfou8gHeum7WhVCFECLl8CtThXO7GWN/8GgCP4=
